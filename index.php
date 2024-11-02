@@ -12,7 +12,7 @@
         <nav>
             <img style ="width: 300px" src="image\logo.png" alt="logo">
             <a href="index.php">Главная</a>
-            <a href="shop.php?authorize="<?php if(isset($authorize))echo $authorize?>>Магазин</a>
+            <a href="shop.php">Магазин</a>
             <a href="login.html">Авторизация</a>
         </nav>
     </header>
